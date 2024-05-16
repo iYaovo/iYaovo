@@ -6,7 +6,7 @@
 - 📫 How to reach me: Iyaovo@outlook.com
 - 😄 Read more about my personal website: [here](https://iyaovo.github.io/)
 
-![](https://github-readme-stats.vercel.app/api?username=iYaovo&show_icons=true&theme=transparent)
+![](https://github-readme-stats.vercel.app/api?username=iYaovo&show_icons=true&theme=radical)
 ### My Skill Set
 [![My Skills](https://skillicons.dev/icons?i=java,spring)](https://skillicons.dev)
 
